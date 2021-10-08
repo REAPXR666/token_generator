@@ -1,0 +1,13 @@
+RULES:
+1. dont mass use
+2. 1 token per 5 minuits
+3. only close the discord tab to verify email
+4. open ACCOUNTS.txt to view generated accounts with email, password and token, and username
+
+run Setup.bat to install all requirements.
+run start.bat to run the acc gen
+
+NOTE: this is in early access. YOU WILL GET RATE LIMITED FOR 5 MINUITS!
+I AM NOT RESPONSIBL EFOR ANY DAMAGE DONE!
+
+also: joining verified tokens to a server, makes them unverified, due to "SUSPICIOUS ACTIVITY"

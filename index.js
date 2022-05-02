@@ -1,5 +1,6 @@
-
-  // Made By Social404 Do Not Leak!
+  // REQUIRES CAPTCHA KEY! - OR ENTER MANUALLY, EITHER WORKS
+  // STILL WORKS!
+  // Made By Louis Gaming Do Not Leak!
   
   // Libs
   const crypto = require("crypto")
